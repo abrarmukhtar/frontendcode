@@ -1,0 +1,17 @@
+.student-form {
+  display: flex;
+  flex-direction: column;
+
+  border: 1px solid black;
+  align-items: center;
+  padding: 10px 10px 10px 10px;
+}
+.student-form .lb {
+  color: blue;
+  background-color: burlywood;
+  padding: 10px;
+  text-align: center;
+}
+.student-form TextField {
+  text-transform: uppercase;
+}
